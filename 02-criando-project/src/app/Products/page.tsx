@@ -3,7 +3,15 @@
  const Products = () => {
 
 return(
-<h1 className="text-blue-600 text-lg flex justify-center">pagina de productos</h1>
+
+<div>
+    <h1 className="text-blue-600 text-lg flex justify-center">pagina de productos</h1>
+    <div>prouto 1</div>
+    <div>prouto 2</div>
+    <div>prouto 3</div>
+
+</div>
+
 )
 }
 export default Products;
